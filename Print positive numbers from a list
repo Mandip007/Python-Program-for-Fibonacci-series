@@ -1,0 +1,4 @@
+list = [3,5,14,-7,-2,0,9,-17,23]
+for num in list:
+    if num >= 0:
+        print(num)
